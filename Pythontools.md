@@ -4,4 +4,5 @@ write a .txt file:
       f.write(str(i))
       f.write("\n")
 f.close()
+
 Notes: 'a' append new things at the end of result.txt, 'w' rewrite the results.txt, which means it will cover the orginal text. 
