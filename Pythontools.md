@@ -8,4 +8,4 @@ with open('result.txt', 'a') as f:
 f.close()
 ```
 
-Notes: 'a' appends new things at the end of result.txt, 'w' rewrites the results.txt, which means it will cover the orginal text. 
+Notes: 'a' appends new things at the end of result.txt. 'w' rewrites the results.txt, which means it will cover the orginal text. 
