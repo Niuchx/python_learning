@@ -1,7 +1,7 @@
 # 使用matplotlib.pyplot画图（详细的[请看](https://www.zhihu.com/collection/260736383)）
 ----
 ## 一维线图
-```
+```python
 import matplotlib.pyplot as plt 
 import numpy as np 
 
