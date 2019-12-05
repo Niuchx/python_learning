@@ -1,6 +1,6 @@
 # write a .txt file:
 
-```
+```python
 with open('result.txt', 'a') as f:
     for i in range(100):
       f.write(str(i))
