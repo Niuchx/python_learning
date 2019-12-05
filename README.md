@@ -3,15 +3,9 @@
 Include something that is useful or interesting for python learning.
 
 The contents of this repository is listed as below:
-- [**Pytorch**]()
-- [**Tensorflow**]()
-- [**How to plot using plt**]()
-- 
+- [**Pytorch**](https://github.com/Niuchx/python_learning/blob/master/pytorch.md)
+- [**Tensorflow**](https://github.com/Niuchx/python_learning/blob/master/Tensorflow_learning.md)
+- [**How to plot using plt**](https://github.com/Niuchx/python_learning/blob/master/plt.md)
+- [**SNE**](https://github.com/Niuchx/python_learning/blob/master/sne.py)
+- [**others**](https://github.com/Niuchx/python_learning/blob/master/Pythontools.md)
 
-```python
-import os
-
-os.environ['TF_CPP_MIN_LOG_LEVEL'] = '1'  默认的等级，显示所有信息
-os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'  只显示warning和error
-os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'  只显示error
-```
