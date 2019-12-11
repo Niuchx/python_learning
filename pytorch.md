@@ -1,4 +1,4 @@
-Calculate the number of parameters
+Calculate the number of network parameters
 ```python
 def get_n_params(model):
     total_num = 0
