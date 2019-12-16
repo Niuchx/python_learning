@@ -22,7 +22,7 @@ plt.yticks([-2,-1,0,1,2],[r'$really\ bad$',r'$b$',r'$c\ \alpha$',r'$d$',r'$good$
 
 plt.show()
 
-## Fugure
+## Figure
 y1 = x ** 2 
 y2 = x * 2
 #这个是第一个figure对象,下面的内容都会在第一个figure中显示
