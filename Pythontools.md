@@ -20,14 +20,15 @@ os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'  #only display error
 ```
 
 # How draw figures using matplotlib in Linux terminal without GUI
-- adding the following codes：
+- Method 1 :adding the following codes：
 ```python
 import matplotlib as mpl
 mpl.use('Agg')
 from matplotlib.pylot as plt
 ```
-- adding an configuration file at ~/.config/matplotlib/matplotlibrc：
+- Method 2 :adding an configuration file at ~/.config/matplotlib/matplotlibrc：
 and adding the following line
 ```
 backend : Agg
 ```
+- Using plt.savefig() to save the figure and open it in your vscode.
