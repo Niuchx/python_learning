@@ -26,9 +26,7 @@ import matplotlib as mpl
 mpl.use('Agg')
 from matplotlib.pylot as plt
 ```
-- Method 2: adding an configuration file ：
-
-the file location is: ~/.config/matplotlib/matplotlibrc(matplotlibrc is the file name) and adding the following line
+- Method 2: adding an configuration file ：the file location is: ~/.config/matplotlib/matplotlibrc(matplotlibrc is the file name) and adding the following line
 ```
 backend : Agg
 ```
