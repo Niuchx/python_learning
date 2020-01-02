@@ -31,3 +31,6 @@ from matplotlib.pylot as plt
 backend : Agg
 ```
 - Using plt.savefig() to save the figure and open it in your vscode.
+
+# Using ipdb to debug python
+[ipdb](https://www.cnblogs.com/chjbbs/p/6509883.html)
